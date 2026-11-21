@@ -1,6 +1,4 @@
-# MisConn – Selected Code Samples
-
-This repository contains selected Python modules from **MisConn**, an independently developed aviation data collection and processing platform.
+# Kiel Institute – Selected Code Samples
 
 The files are provided to demonstrate practical experience in Python programming, data extraction, validation, and API integration as part of my application to the Kiel Institute for the World Economy.
 
